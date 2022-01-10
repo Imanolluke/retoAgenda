@@ -1,0 +1,42 @@
+#daily{
+    color: azure;
+    background-color: black;
+}
+#currentEvents{
+  
+    color:#ffc800;
+}
+.card-text{
+    display: flex;
+}
+#moreInfo{
+
+    position: absolute;
+    right: 20px; 
+    bottom: 20px;
+   
+}
+li{
+    text-decoration: none;
+}
+.modal-body{
+    display: flex;
+    background-image: url(../img/modalfondo1.png);
+    
+}
+.modal-header{
+    background-image: url(../img/modalheader.png);
+}
+.modal-footer{
+    background-image: url(../img/modalFondo.png);
+}
+.modal-title{
+    margin-left: 10px;
+  
+}
+#logoModal{
+    width: 55px;
+}
+#userlogo{
+    width: 40px;
+}
